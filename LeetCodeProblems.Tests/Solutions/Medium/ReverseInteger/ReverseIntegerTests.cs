@@ -6,7 +6,7 @@ using System.Text;
 
 namespace LeetCodeProblems.Tests.Solutions.Medium.ReverseInteger
 {
-    class ReverseIntegertests
+    class StringToIntegerTests
     {
         [SetUp]
         public void Setup()
